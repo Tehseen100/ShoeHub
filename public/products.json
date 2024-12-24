@@ -1,0 +1,51 @@
+[
+    {
+        "img": "/images/grant_hill_2.png",
+        "name": "grant hill 2",
+        "price": 135.0,
+        "brand": "FILA"
+    },
+    {
+        "img": "/images/Women_s_Disruptor_2.png",
+        "name": "Women's Disruptor 2 Premium",
+        "price": 70.0,
+        "brand": "FILA"
+    },
+    {
+        "img": "/images/Men_s_Targa_NT.png",
+        "name": "Men's Targa NT",
+        "price": 90.0,
+        "brand": "FILA"
+    },
+    {
+        "img": "/images/Nike_Dunk_Low_Retro_SE.png",
+        "name": "Nike Dunk Low Retro SE",
+        "price": 125.0,
+        "brand": "Nike"
+    },
+    {
+        "img": "/images/Light_Silver_and_Metallic_Gold.png",
+        "name": "Light Silver and Metallic Gold",
+        "price": 130.0,
+        "brand": "Nike"
+    },
+    {
+        "img": "/images/Nike_Pegasus_Plus.png",
+        "name": "Nike Pegasus Plus",
+        "price": 180.0,
+        "brand": "Nike"
+    },
+    {
+        "img": "/images/Nike_Air_Max_Goadome.png",
+        "name": "Nike Air Max Goadome",
+        "price": 180.0,
+        "brand": "Nike"
+    },
+    
+    {
+        "img": "/images/adidas.png",
+        "name": "Adidas White Shoe",
+        "price": 86.0,
+        "brand": "Adidas"
+    }
+]
